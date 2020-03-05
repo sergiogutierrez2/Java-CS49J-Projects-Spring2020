@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c380d22a-8f43-4005-9a5f-c4e834f650f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/sjsu/gutierrez/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/sjsu/gutierrez/DescribeCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/sjsu/gutierrez/HoursPassed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/sjsu/gutierrez/MilitaryTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/sjsu/gutierrez/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/sjsu/gutierrez/RandomFifty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/sjsu/gutierrez/ReversedWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +35,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloWorldDemo" />
   </component>
-  <component name="RunManager" selected="Application.DescribeCard">
-    <configuration name="Bug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.Bug" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="DescribeCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.DescribeCard" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DescribeCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.DescribeCard" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.Fibonacci" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
@@ -76,15 +75,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.PointTester" />
+    <configuration name="RandomFifty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.RandomFifty" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sjsu.gutierrez.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrafficLightViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.TrafficLightViewer" />
+    <configuration name="ReversedWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sjsu.gutierrez.ReversedWord" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
@@ -97,19 +102,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PointTester" />
-      <item itemvalue="Application.Bug" />
-      <item itemvalue="Application.TrafficLightViewer" />
       <item itemvalue="Application.HoursPassed" />
       <item itemvalue="Application.DescribeCard" />
+      <item itemvalue="Application.RandomFifty" />
+      <item itemvalue="Application.ReversedWord" />
+      <item itemvalue="Application.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ReversedWord" />
+        <item itemvalue="Application.RandomFifty" />
         <item itemvalue="Application.DescribeCard" />
         <item itemvalue="Application.HoursPassed" />
-        <item itemvalue="Application.TrafficLightViewer" />
-        <item itemvalue="Application.Bug" />
-        <item itemvalue="Application.PointTester" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581657587792</updated>
-      <workItem from="1581657599433" duration="7233000" />
+      <workItem from="1581657599433" duration="8377000" />
     </task>
     <servers />
   </component>
@@ -135,21 +140,21 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="623" y="216" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1581661396709" />
-    <state width="1340" height="192" key="GridCell.Tab.0.bottom" timestamp="1583045506054">
+    <state width="1340" height="192" key="GridCell.Tab.0.bottom" timestamp="1583392045228">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="192" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583045506054" />
-    <state width="1340" height="192" key="GridCell.Tab.0.center" timestamp="1583045506054">
+    <state width="1340" height="192" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583392045228" />
+    <state width="1340" height="192" key="GridCell.Tab.0.center" timestamp="1583392045224">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="192" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583045506054" />
-    <state width="1340" height="192" key="GridCell.Tab.0.left" timestamp="1583045506054">
+    <state width="1340" height="192" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583392045224" />
+    <state width="1340" height="192" key="GridCell.Tab.0.left" timestamp="1583392045224">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="192" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583045506054" />
-    <state width="1340" height="192" key="GridCell.Tab.0.right" timestamp="1583045506054">
+    <state width="1340" height="192" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583392045224" />
+    <state width="1340" height="192" key="GridCell.Tab.0.right" timestamp="1583392045224">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="192" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583045506054" />
+    <state width="1340" height="192" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583392045224" />
   </component>
 </project>
