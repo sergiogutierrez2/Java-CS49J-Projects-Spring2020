@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/RandomFifty.png)
 
-![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/Rversedword.png)
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/Reversedword.png)
 
 ![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/TrafficLight.png)
 
