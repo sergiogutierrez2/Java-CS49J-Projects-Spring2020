@@ -1,1 +1,19 @@
-![alt text](https://i.pinimg.com/originals/6a/47/f1/6a47f185801bdd50f28605af5d207e9a.png)
+# Java Projects I worked in at San Jose State University, Spring 2020.
+
+**Screenshot Examples of some Programs:**
+
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/Bug.png)
+
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/Fibonacci.png)
+
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/FishMessage.png)
+
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/PointTester.png)
+
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/RandomFifty.png)
+
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/Rversedword.png)
+
+![alt text](https://github.com/sergiogutierrez2/Java-CS49J-Projects-Spring2020/blob/master/Src%20images/TrafficLight.png)
+
+
